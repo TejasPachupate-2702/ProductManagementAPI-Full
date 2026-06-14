@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="D:/Tejas/CrudOperations/Application/Application.csproj" />
+    <Project Path="D:/Tejas/CrudOperations/Domain/Domain.csproj" />
+    <Project Path="D:/Tejas/CrudOperations/Infrastructure/Infrastructure.csproj" />
+    <Project Path="D:/Tejas/CrudOperations/ProductManagementAPI/ProductManagementAPI.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
